@@ -7,3 +7,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: java-platform-team
+  system: push-notif
+  domain: communications-platform
