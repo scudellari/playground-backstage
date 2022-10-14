@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: push-notif-ios-service
+  description: A push notification service for iOS
+spec:
+  type: service
+  lifecycle: experimental
+  owner: java-platform-team
